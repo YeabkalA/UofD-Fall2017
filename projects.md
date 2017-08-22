@@ -34,7 +34,7 @@ In this project, you're going to build a photo browser using a collection view.
 
 In this project, you're going to build a (very) lightweight social network.
 
-## Project 4 (40%) Due on the last day of class
+## Project 4 (40%) Due Dec 5, 11pm CST
 
 This is a capstone project. Build something you want to see brought into the world.
 
