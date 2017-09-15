@@ -2,7 +2,7 @@
 
 This class is graded entirely based upon projects completed by the students. There will be no exams.
 
-## Project 1 (10%) Due Sept 18, 10pm CST
+## Project 1 (10%) Due Sept 25, 10pm CST
 
 This first project is meant to measure your ability to perform basic tasks within Xcode and Swift, so as to catch
 any possible problems before they become critical and prevent success as the class goes on.
